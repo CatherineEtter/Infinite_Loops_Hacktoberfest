@@ -13,3 +13,9 @@
 #guide-section h3 {
     margin-top: 20px;
 }
+footer {
+    background-color: #404040;
+    color: #e0e0e0;
+    margin-top: 50px;
+    padding: 20px;
+}
