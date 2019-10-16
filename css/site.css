@@ -1,0 +1,7 @@
+.header {
+    background: url(../images/Hacktoberfest_Header.png) no-repeat;
+    background-size: cover;
+    color: #FCFCFC;
+    text-shadow: 3px 3px #000000;
+    opacity: 0.;
+}
